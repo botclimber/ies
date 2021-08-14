@@ -1,5 +1,8 @@
 <?php
-require("funcs.php");
+
+require("res/fizzbuzz.php");
+require("res/fib.php");
+require("res/SN.php");
 
 
 /* Exercise FizzBuzz */
